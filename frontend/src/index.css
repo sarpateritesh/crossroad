@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+
+  --color-luxury-black: #050505;
+  --color-luxury-gold: #b58c38;
+  --color-luxury-orange: #d95319;
+}
+
+/* Visibility Safety First */
+:root {
+  background-color: #050505 !important;
+  color: white !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #050505 !important;
+  color: white !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  min-height: 100vh;
+}
+
+#root {
+  opacity: 1 !important;
+  visibility: visible !important;
+  min-height: 100vh;
+}
+
+@layer components {
+  .glass-card {
+    @apply border border-white/10 bg-white/5 backdrop-blur-xl rounded-[2rem];
+  }
+
+  .luxury-button {
+    @apply px-8 py-4 rounded-full border border-luxury-gold/30 text-luxury-gold uppercase tracking-widest text-[10px] font-bold bg-black/40;
+  }
+}

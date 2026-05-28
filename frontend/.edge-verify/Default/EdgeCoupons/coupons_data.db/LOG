@@ -1,0 +1,5 @@
+2026/05/26-21:09:43.109 e3c Creating DB E:\Ritesh new project\frontend\.edge-verify\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/05/26-21:09:43.120 e3c Reusing MANIFEST E:\Ritesh new project\frontend\.edge-verify\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/26-21:09:43.304 6df4 Level-0 table #5: started
+2026/05/26-21:09:43.309 6df4 Level-0 table #5: 682644 bytes OK
+2026/05/26-21:09:43.311 6df4 Delete type=0 #3

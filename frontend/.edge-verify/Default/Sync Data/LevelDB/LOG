@@ -1,0 +1,14 @@
+2026/05/26-21:09:40.161 3ad8 Creating DB E:\Ritesh new project\frontend\.edge-verify\Default\Sync Data\LevelDB since it was missing.
+2026/05/26-21:09:40.173 3ad8 Reusing MANIFEST E:\Ritesh new project\frontend\.edge-verify\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/26-21:11:07.362 3ad8 Level-0 table #5: started
+2026/05/26-21:11:07.378 3ad8 Level-0 table #5: 91926 bytes OK
+2026/05/26-21:11:07.381 3ad8 Delete type=0 #3
+2026/05/26-21:13:11.417 6df4 Level-0 table #7: started
+2026/05/26-21:13:11.425 6df4 Level-0 table #7: 87552 bytes OK
+2026/05/26-21:13:11.428 6df4 Delete type=0 #4
+2026/05/26-21:15:03.566 da0 Level-0 table #9: started
+2026/05/26-21:15:03.570 da0 Level-0 table #9: 88682 bytes OK
+2026/05/26-21:15:03.571 da0 Delete type=0 #6
+2026/05/26-21:17:03.844 3ad8 Level-0 table #11: started
+2026/05/26-21:17:03.847 3ad8 Level-0 table #11: 87340 bytes OK
+2026/05/26-21:17:03.848 3ad8 Delete type=0 #8
