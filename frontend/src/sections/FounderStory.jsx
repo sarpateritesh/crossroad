@@ -104,7 +104,7 @@ export default function FounderStory() {
               transition={{ delay: i * 0.15, duration: 0.8 }}
               className="glass-card p-10 text-center group hover:border-luxury-gold/30 transition-all duration-500 relative"
             >
-              <div className="w-40 h-40 mx-auto mb-8 rounded-full bg-gradient-to-tr from-luxury-black to-zinc-800 border border-luxury-gold/20 flex items-center justify-center text-4xl font-display text-luxury-gold group-hover:scale-110 group-hover:border-luxury-gold transition-all duration-500 overflow-hidden">
+              <div className="w-40 h-40 aspect-square shrink-0 mx-auto mb-8 rounded-full bg-gradient-to-tr from-luxury-black to-zinc-800 border border-luxury-gold/20 flex items-center justify-center text-4xl font-display text-luxury-gold group-hover:scale-110 group-hover:border-luxury-gold transition-all duration-500 overflow-hidden">
                 {founder.image ? (
                   <img src={founder.image} alt={founder.name} className="w-full h-full object-cover" />
                 ) : (
