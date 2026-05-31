@@ -8,21 +8,21 @@ const DISHES = [
     name: "Manchurian Pakoda",
     desc: "Perfectly crispy outside and loaded with bold flavours inside — the signature taste that made Crossroad Manchurians a local favourite since 2017.",
     video: "https://assets.mixkit.co/videos/preview/mixkit-vegetables-and-spices-being-fried-in-a-pan-41223-large.mp4",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=800",
+    image: "/manchurian.png",
     tag: "Signature Speciality"
   },
   {
     name: "Spring Potato",
     desc: "Golden, crunchy and irresistibly addictive — every bite delivers the perfect mix of crispiness and flavour.",
     video: "https://assets.mixkit.co/videos/preview/mixkit-slow-motion-of-vegetables-being-fried-in-a-wok-41220-large.mp4",
-    image: "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=800",
+    image: "/spring_potato.png",
     tag: "Popular Favorite"
   },
   {
     name: "Chinese Bhel",
     desc: "A spicy street-food experience packed with crunch, freshness and unforgettable taste.",
     video: "https://assets.mixkit.co/videos/preview/mixkit-chef-tossing-vegetables-in-a-wok-41225-large.mp4",
-    image: "https://images.unsplash.com/photo-1512058560366-cd2427ffaa74?q=80&w=800",
+    image: "/chinese_bhel.png",
     tag: "Street Fusion"
   }
 ]
